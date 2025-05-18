@@ -1,0 +1,1 @@
+{"uuid":"2ab1d270-cf45-4c20-ba24-3601b455376b","name":"AutomationExerciseUI","children":["39c3e286-b3b2-4d9f-bdcf-fcb5f7291cba"],"befores":[],"afters":[{"name":"cleanUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1746964908341,"stop":1746964908603}],"start":1746964902389,"stop":1746964908604}
